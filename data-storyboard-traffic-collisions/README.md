@@ -45,7 +45,7 @@ The storyboard integrates several visual elements:
 These elements work together to create a cohesive narrative flow where the visuals reinforce the message of the story.
 
 # Final Storyboard
-![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
+![Final Storyboard](Design-Process/TheStoryOfAlvin-Final.png)
 
 # Visuals/
 **Bar Graph:**
