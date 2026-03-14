@@ -82,29 +82,37 @@ These elements work together to create a cohesive narrative flow where the visua
 
 # Key Learning Outcomes
 
-Through this project, I learned how to:
+This project reinforced several important principles of data storytelling:
 
-Translate raw data into visual narratives
+**Narrative Drives Engagement**
 
-Structure a story to guide audience interpretation
+Stories provide context that helps audiences connect with data.
 
-Use visualizations as supporting elements within a narrative
+**Visualizations Should Support the Message**
 
-Balance storytelling and analytical accuracy
+Charts should reinforce the story rather than overwhelm the audience.
 
-This exercise reinforced the importance of context and narrative framing when presenting data insights to broader audiences.
+**Simplicity Improves Understanding**
+
+Effective storytelling focuses on clear insights rather than excessive detail.
+
+**Context Makes Data Meaningful**
+
+Embedding data within a narrative helps audiences understand why the information matters.
 
 # Why Storyboarding Matters in Data Visualization
 
-Storyboarding is commonly used in journalism, product design, and film production to plan narratives. In the context of data analytics, it helps analysts:
+In many real-world scenarios, analysts must communicate insights to decision-makers who may not have technical backgrounds.
 
-Plan how insights will unfold for the audience
+Storytelling techniques allow analysts to:
 
-Identify which visualizations best support each stage of the story
+translate complex data into understandable narratives
 
-Ensure the final presentation communicates a clear and compelling message
+guide audiences toward key insights
 
-By integrating storytelling with analytics, data becomes more engaging, understandable, and impactful.
+make data-driven recommendations more persuasive
+
+This project demonstrates how story-driven visualization can bridge the gap between data analysis and effective communication.
 
 # Reflections (Lessons Learned)
 - stickmen sketches should be substituted for actual animation
