@@ -1,4 +1,4 @@
-**Traffic Collision Data Storyboard Project Overview**
+# Traffic Collision Data Storyboard Project Overview
 
 This project explores how data storytelling can be used to communicate complex information through a narrative structure. Instead of presenting charts in isolation, the visualization is embedded within a storyboard centered on a fictional character named Alvin.
 
@@ -18,7 +18,7 @@ Design a storyboard that guides readers through a structured sequence of insight
 
 Communicate public safety data in a way that is accessible and memorable
 
-**Story Structure**
+# Story Structure
 
 The storyboard uses a scene-based structure, where each frame represents a step in the narrative.
 
@@ -32,7 +32,7 @@ Risk factors affecting road safety
 
 This format allows the audience to connect emotionally with the story while simultaneously understanding the data.
 
-**Visual Components**
+# Visual Components
 
 The storyboard integrates several visual elements:
 
@@ -44,5 +44,9 @@ The storyboard integrates several visual elements:
 
 These elements work together to create a cohesive narrative flow where the visuals reinforce the message of the story.
 
-**Final Storyboard**
+# Final Storyboard
 ![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
+
+# Reflections (Lessons Learned)
+- stickmen sketches should be substituted for actual animation
+- use actual data in charts (not within project scope)
