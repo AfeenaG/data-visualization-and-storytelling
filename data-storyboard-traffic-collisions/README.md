@@ -47,6 +47,32 @@ These elements work together to create a cohesive narrative flow where the visua
 # Final Storyboard
 ![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
 
+# Key Learning Outcomes
+
+Through this project, I learned how to:
+
+Translate raw data into visual narratives
+
+Structure a story to guide audience interpretation
+
+Use visualizations as supporting elements within a narrative
+
+Balance storytelling and analytical accuracy
+
+This exercise reinforced the importance of context and narrative framing when presenting data insights to broader audiences.
+
+# Why Storyboarding Matters in Data Visualization
+
+Storyboarding is commonly used in journalism, product design, and film production to plan narratives. In the context of data analytics, it helps analysts:
+
+Plan how insights will unfold for the audience
+
+Identify which visualizations best support each stage of the story
+
+Ensure the final presentation communicates a clear and compelling message
+
+By integrating storytelling with analytics, data becomes more engaging, understandable, and impactful.
+
 # Reflections (Lessons Learned)
 - stickmen sketches should be substituted for actual animation
 - use actual data in charts (not within project scope)
