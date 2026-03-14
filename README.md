@@ -64,8 +64,11 @@ The project demonstrates how historical visualizations can be enhanced with mode
 
 * Python
 * Flask
-* Interactive chart libraries
 * Data visualization dashboards
+* Figma using the i Charts generate plugin (Interactive chart libraries)
+* Figma
+* Miro
+* shorthand.com
 
 ---
 
@@ -150,7 +153,8 @@ Some of the most important principles reinforced through these projects include:
 * Flourish
 * shorthand (https://shorthand.com/)
 * Data visualization libraries
-* Infographic and wireframing tools
+* Balsamiq
+* Canva
 
 ---
 
