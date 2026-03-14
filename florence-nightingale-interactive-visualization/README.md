@@ -34,15 +34,15 @@ Users can filter the dataset using a dropdown menu that allows selection by:
 
 This enables users to explore how mortality patterns change across time and categories.
 
-Hover Interactions
+- Hover Interactions
 
-Hovering over chart segments reveals additional details, including:
+- Hovering over chart segments reveals additional details, including:
 
-Cause of death
+- Cause of death
 
-Year
+- Year
 
-Number of recorded deaths
+- Number of recorded deaths
 
 These tooltips provide deeper context without cluttering the main visualization.
 
