@@ -127,4 +127,4 @@ This project forms part of my academic portfolio demonstrating skills in:
 
 - visual storytelling
 
-analytical communication
+- analytical communication
