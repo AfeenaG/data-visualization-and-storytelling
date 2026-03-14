@@ -83,7 +83,6 @@ This project combines several technologies to implement the interactive visualiz
 The data processing and visualization logic were developed in a Jupyter Notebook before being integrated into a web-based dashboard.
 
 # Project Structure
-```text
 02-florence-nightingale-interactive-visualization
 ├── README.md
 ├── Notebooks/
@@ -93,7 +92,8 @@ The data processing and visualization logic were developed in a Jupyter Notebook
     └── templates/
         ├── index.html
         └── nightingale_chart.html
-```       
+<b>```</b>
+</pre>
 
 # Key Learning Outcomes
 
