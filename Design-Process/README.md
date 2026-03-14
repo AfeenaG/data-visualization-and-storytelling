@@ -6,4 +6,4 @@ I analysed the data and decided to group it to tell a complete story
 ![Data Buckets](../Design-Process/OrganizingData.png)
 
 # The initial storyboard
-![Data Buckets](../Design-Process/TheStory_Iteration1.png)
+![Storyboard 1](../Design-Process/TheStory_Iteration1.png)
