@@ -57,7 +57,7 @@ A digital wireframe was created to define the visual hierarchy and placement of 
 
 The final infographic integrates the selected data insights into a visually structured design.
 
-![Wireframe](../Design-Process/03_How%20do%20Canadians%20View%20and%20Use%20AI.png)
+![Wireframe](../Design-Process/03_How%20do%20Canadians%20View%20and%20Use%20AI.jpg)
 
 
 The design prioritizes:
