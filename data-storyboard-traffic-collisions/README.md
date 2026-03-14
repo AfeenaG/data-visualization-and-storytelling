@@ -106,11 +106,11 @@ In many real-world scenarios, analysts must communicate insights to decision-mak
 
 Storytelling techniques allow analysts to:
 
-translate complex data into understandable narratives
+- translate complex data into understandable narratives
 
-guide audiences toward key insights
+- guide audiences toward key insights
 
-make data-driven recommendations more persuasive
+- make data-driven recommendations more persuasive
 
 This project demonstrates how story-driven visualization can bridge the gap between data analysis and effective communication.
 
