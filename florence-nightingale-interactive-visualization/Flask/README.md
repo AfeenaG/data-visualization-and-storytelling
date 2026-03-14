@@ -5,13 +5,21 @@
 
 
 **FOLDER STRUCTURE FOR FLASK PROJECTS**
+
 C:...\FlaskProjects\
+
 ├─ app.py
+
 ├─ Nightingale_Interactive.ipynb
+
 └─ templates\
+
    └─ index.html
+   
    └─ nightingale_chart.html
+   
    └─ nightingale_impact_after_reform.html
+   
 
 **RUNNING THE IPBYN TO RENDER CHARTS**
 1. It is recommended you run this first to generate your html files: nightingale_chart.html, nightingale_impact_after_reform.html
