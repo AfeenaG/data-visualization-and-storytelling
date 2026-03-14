@@ -47,6 +47,8 @@ These elements work together to create a cohesive narrative flow where the visua
 # Final Storyboard
 ![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
 
+# Visuals
+
 # Key Learning Outcomes
 
 Through this project, I learned how to:
