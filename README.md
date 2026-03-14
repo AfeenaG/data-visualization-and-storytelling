@@ -119,7 +119,7 @@ The project integrates:
 
 A video presentation summarizing the project is available here:
 
-[![Watch the video](https://img.youtube.com)](https://youtu.be/87c7tVLj62g)
+[![Watch the video](https://youtu.be/87c7tVLj62g)](https://youtu.be/87c7tVLj62g)
 
 ---
 
