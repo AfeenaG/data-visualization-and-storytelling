@@ -48,6 +48,7 @@ These elements work together to create a cohesive narrative flow where the visua
 ![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
 
 # Visuals
+![Chart1](../Design-Process/Graph1-horizontal%20bar%20graph.png)
 
 # Key Learning Outcomes
 
