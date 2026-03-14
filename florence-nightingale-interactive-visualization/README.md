@@ -93,7 +93,7 @@ The data processing and visualization logic were developed in a Jupyter Notebook
     └── templates/
         ├── index.html
         └── nightingale_chart.html
-       
+```       
 
 # Key Learning Outcomes
 
