@@ -6,6 +6,8 @@ Florence Nightingale originally developed this radial diagram in the 1850s to de
 
 In this project, the historical visualization was recreated and extended into an interactive dashboard, allowing users to dynamically explore the data through filters and interactive chart elements.
 
+[![Watch the video](https://img.youtube.com/vi/VsfQ-0FbqDw/0.jpg)](https://youtu.be/VsfQ-0FbqDw)
+
 # Project Goals
 
 The main objectives of this project were to:
@@ -82,21 +84,23 @@ The data processing and visualization logic were developed in a Jupyter Notebook
 
 # Project Structure
 02-florence-nightingale-interactive-visualization
-│
-├── README.md
-├── florence_nightingale_chart.ipynb
-│
-├── flask_app
-│   ├── app.py
-│   ├── templates
-│   │   └── index.html
-│   └── static
-│       └── styles.css
-│
-└── screenshots
-    ├── radial_chart.png
-    ├── interactive_dashboard.png
-    └── hover_interaction.png
+
+├──README.md
+
+├── Notebooks/
+    florence_nightingale_chart.ipynb
+
+├── flask/
+
+   app.py
+
+   templates
+   
+       index.html
+       
+       nightingale_chart.html
+       
+
 # Key Learning Outcomes
 
 This project reinforced several important visualization and design concepts.
