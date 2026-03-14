@@ -68,6 +68,9 @@ The video demonstrates how the narrative unfolds as users scroll through the sto
     ├── avocado.png
     ├── groundbeef.png
     ├── strawberries.png
+├── Notebook │
+    ├── ForecastCosts.ipynb
+    ├── Hamburger.ipynb
 ```
 
 **scrollytelling_design.md**
