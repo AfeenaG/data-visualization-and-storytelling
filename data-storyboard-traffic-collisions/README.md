@@ -47,8 +47,24 @@ These elements work together to create a cohesive narrative flow where the visua
 # Final Storyboard
 ![Final Storyboard](../Design-Process/TheStoryOfAlvin-Final.png)
 
-# Visuals
+# Visuals/
+Bar Graph:
+
 ![Chart1](../Design-Process/Graph1-horizontal%20bar%20graph.png)
+
+Stacked Bar:
+
+![Chart2](../Design-Process/Graph2-StackedBar.png)
+
+Heat map:
+
+![Heat Map](../Design-Process/Graph3-HeatMap.png)
+
+Line Graph:
+
+![Line Graph](../Design-Process/Graph4-LineGraph.png)
+
+![Chart5](../Design-Process/Graph5.png)
 
 # Key Learning Outcomes
 
