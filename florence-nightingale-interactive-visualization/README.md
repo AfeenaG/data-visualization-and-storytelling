@@ -91,9 +91,9 @@ The data processing and visualization logic were developed in a Jupyter Notebook
     ├── app.py
     └── templates/
         ├── index.html
-        └── nightingale_chart.html```
+        └── nightingale_chart.html
 
-</pre>
+
 
 # Key Learning Outcomes
 
