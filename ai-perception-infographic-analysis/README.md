@@ -72,7 +72,7 @@ Charts, icons, and layout elements work together to guide readers through the st
 
 # Project Structure
 ```text
-03-ai-perception-infographic-analysis
+ai-perception-infographic-analysis
 ├── README.md
 ├── dataset-link.md
 ├── wireframes
