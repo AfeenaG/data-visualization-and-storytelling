@@ -50,20 +50,20 @@ These elements work together to create a cohesive narrative flow where the visua
 # Visuals/
 **Bar Graph:**
 
-![Bar Graph](../Design-Process/Graph1-horizontal%20bar%20graph.png)
-![Chart5](../Design-Process/Graph5.png)
+![Bar Graph](Design-Process/Graph1-horizontal%20bar%20graph.png)
+![Chart5](Design-Process/Graph5.png)
 
 **Stacked Bar:**
 
-![Stacked Bar](../Design-Process/Graph2-StackedBar.png)
+![Stacked Bar](Design-Process/Graph2-StackedBar.png)
 
 **Heat map:**
 
-![Heat Map](../Design-Process/Graph3-HeatMap.png)
+![Heat Map](Design-Process/Graph3-HeatMap.png)
 
 **Line Graph:**
 
-![Line Graph](../Design-Process/Graph4_LineGraph.png)
+![Line Graph](Design-Process/Graph4_LineGraph.png)
 
 # Project Files
 ```text
