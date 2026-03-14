@@ -122,10 +122,14 @@ ensure that data communication remains clear, accurate, and transparent
 This project demonstrates how critical analysis can help improve the effectiveness of data-driven communication.
 
 # Project Structure
-05-infographic-evaluation-statcan
+```text
+│infographic-evaluation-statcan
 ├── README.md
-├── evaluation.md
-└── statcan_infographic_reference.png
+└── Infographic
+    ├── infographic.jpg   
+└── data-link
+    └── README.md
+``` 
 
 evaluation.md
 Contains the full written critique and detailed analysis of the infographic.
