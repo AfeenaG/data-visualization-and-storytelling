@@ -11,7 +11,7 @@ The projects in this repository demonstrate practical applications of:
 * Data storytelling techniques
 * Dashboard and interactive visualization design
 * Infographic design and critique
-* Predictive and exploratory analytics visualization
+* exploratory analytics visualization
 * User-focused information design
 
 ---
@@ -43,6 +43,16 @@ I developed a narrative centered on a fictional character, **Alvin**, and integr
 * Visual pacing and scene progression
 * Integrating charts within storytelling contexts
 
+### Design Process
+- hand-drawn chart ideas
+- Miro to logically organize data into buckets
+- Figma for storboarding the final product
+  
+**Technologies Used**
+- Figma
+- Figma using the i Charts generate plugin (Interactive chart libraries)
+- Miro (for data organization: Who, What, Where, When, Why)
+  
 ---
 
 ## 2. Interactive Redesign of Florence Nightingale’s Visualization
@@ -51,6 +61,10 @@ This project modernizes **Florence Nightingale’s Coxcomb chart**, one of the e
 
 The visualization was recreated and extended into an **interactive dashboard**, deployed through a Flask application.
 
+### Design Process
+
+- flourish to mockup Florence Nightingale's Rose Diagram
+  
 ### Interactive Features
 
 * Dropdown filters for **year and cause of death**
@@ -65,10 +79,9 @@ The project demonstrates how historical visualizations can be enhanced with mode
 * Python
 * Flask
 * Data visualization dashboards
-* Figma using the i Charts generate plugin (Interactive chart libraries)
-* Figma
+* Flourish
 * Miro
-* shorthand.com
+
 
 ---
 
