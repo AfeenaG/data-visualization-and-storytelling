@@ -8,6 +8,8 @@ The objective of this assignment was to critically analyze the infographic’s d
 
 The analysis focuses on how visual storytelling techniques are used to simplify and communicate information related to tariffs, ingredient sourcing, and food pricing.
 
+![Tariff](Infographic/infographic.jpg)
+
 # Infographic Reference
 
 
