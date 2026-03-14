@@ -113,11 +113,11 @@ In many real-world contexts, data analysts must evaluate and critique existing v
 
 Understanding how visualizations communicate information helps analysts:
 
-identify strengths and weaknesses in data presentation
+- identify strengths and weaknesses in data presentation
 
-improve their own visualization design
+- improve their own visualization design
 
-ensure that data communication remains clear, accurate, and transparent
+- ensure that data communication remains clear, accurate, and transparent
 
 This project demonstrates how critical analysis can help improve the effectiveness of data-driven communication.
 
@@ -143,10 +143,10 @@ AfeenaG: Graduate Student – Business Analytics and Artificial Intelligence
 
 This project is part of my academic portfolio demonstrating skills in:
 
-data visualization critique
+- data visualization critique
 
-visual communication analysis
+- visual communication analysis
 
-infographic evaluation
+- infographic evaluation
 
-data storytelling
+- data storytelling
