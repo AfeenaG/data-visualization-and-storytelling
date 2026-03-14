@@ -82,6 +82,7 @@ The project demonstrates how historical visualizations can be enhanced with mode
 * Flourish
 * Miro
 
+[![Watch the video](https://img.youtube.com/vi/VsfQ-0FbqDw/0.jpg)](https://youtu.be/VsfQ-0FbqDw)
 
 ---
 
