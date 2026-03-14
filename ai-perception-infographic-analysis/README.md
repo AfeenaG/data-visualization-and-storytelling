@@ -44,7 +44,7 @@ The dataset was examined to identify key trends and insights that would be meani
 
 Hand-drawn sketches were used to explore possible infographic layouts and storytelling structures. Sketching allowed rapid experimentation with different layout ideas before committing to a digital design.
 
-![Handsketch](../Design-Process/01_Handsketch%20Of%20Infographic.png)
+![Handsketch](../Design-Process/01_Handsketch%20Of%20Infographic.jpg)
 
 **3. Wireframing**
 
