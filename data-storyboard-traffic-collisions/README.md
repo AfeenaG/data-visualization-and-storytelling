@@ -65,6 +65,15 @@ These elements work together to create a cohesive narrative flow where the visua
 
 ![Line Graph](../Design-Process/Graph4_LineGraph.png)
 
+**Project Files**
+01-data-storyboard-traffic-collisions
+│
+├── README.md
+└── Design-Process
+    ├── collision-chart-1.png
+    ├── collision-chart-2.png
+    └── storyboard-scenes.png
+
 # Key Learning Outcomes
 
 Through this project, I learned how to:
