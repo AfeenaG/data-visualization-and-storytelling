@@ -44,20 +44,20 @@ The dataset was examined to identify key trends and insights that would be meani
 
 Hand-drawn sketches were used to explore possible infographic layouts and storytelling structures. Sketching allowed rapid experimentation with different layout ideas before committing to a digital design.
 
-![Handsketch](../Design-Process/01_Handsketch%20Of%20Infographic.jpg)
+![Handsketch](Design-Process/01_Handsketch%20Of%20Infographic.jpg)
 
 **3. Wireframing**
 
 A digital wireframe was created to define the visual hierarchy and placement of charts, icons, and text. The wireframe helped organize the information into logical sections so the audience could quickly understand the key findings.
 
 
-![Wireframe](../Design-Process/02_WireFrame_How%20Canadians%20View%20and%20Use%20AI.png)
+![Wireframe](Design-Process/02_WireFrame_How%20Canadians%20View%20and%20Use%20AI.png)
 
 **4. Final Infographic**
 
 The final infographic integrates the selected data insights into a visually structured design.
 
-![Wireframe](../Design-Process/03_How%20do%20Canadians%20View%20and%20Use%20AI.jpg)
+![Wireframe](Design-Process/03_How%20do%20Canadians%20View%20and%20Use%20AI.jpg)
 
 
 The design prioritizes:
