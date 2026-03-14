@@ -50,11 +50,11 @@ These elements work together to create a cohesive narrative flow where the visua
 # Visuals/
 Bar Graph:
 
-![Chart1](../Design-Process/Graph1-horizontal%20bar%20graph.png)
+![Bar Graph](../Design-Process/Graph1-horizontal%20bar%20graph.png)
 
 Stacked Bar:
 
-![Chart2](../Design-Process/Graph2-StackedBar.png)
+![Stacked Bar](../Design-Process/Graph2-StackedBar.png)
 
 Heat map:
 
@@ -62,7 +62,7 @@ Heat map:
 
 Line Graph:
 
-![Line Graph](../Design-Process/Graph4-LineGraph.png)
+![Line Graph](../Design-Process/Graph4_LineGraph.png)
 
 ![Chart5](../Design-Process/Graph5.png)
 
