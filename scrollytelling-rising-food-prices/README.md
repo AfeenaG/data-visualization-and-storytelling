@@ -64,6 +64,10 @@ The video demonstrates how the narrative unfolds as users scroll through the sto
 ```text
 04-scrollytelling-food-prices
 ├── README.md
+├── spike-graphs │
+    ├── avocado.png
+    ├── groundbeef.png
+    ├── strawberries.png
 ```
 
 **scrollytelling_design.md**
