@@ -53,7 +53,8 @@ Sketching allowed rapid experimentation with different layout ideas before commi
 
 A digital wireframe was created to define the visual hierarchy and placement of charts, icons, and text.
 
-
+![Handsketch](../Design-Process/01_Handsketch%20Of%20Infographic.png)
+![Wireframe](../Design-Process/02_WireFrame_How%20Canadians%20View%20and%20Use%20AI.png)
 
 
 The wireframe helped organize the information into logical sections so the audience could quickly understand the key findings.
@@ -62,7 +63,7 @@ The wireframe helped organize the information into logical sections so the audie
 
 The final infographic integrates the selected data insights into a visually structured design.
 
-
+![Wireframe](../Design-Process/03_How%20do%20Canadians%20View%20and%20Use%20AI.png)
 
 
 The design prioritizes:
