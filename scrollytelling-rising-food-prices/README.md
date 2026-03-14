@@ -64,12 +64,6 @@ The video demonstrates how the narrative unfolds as users scroll through the sto
 ```text
 04-scrollytelling-food-prices
 ├── README.md
-├── scrollytelling_design.md
-├── visuals
-│   ├── story_section1.png
-│   ├── story_section2.png
-│   └── story_section3.png
-└── video_link.md
 ```
 
 **scrollytelling_design.md**
