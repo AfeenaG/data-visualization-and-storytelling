@@ -87,7 +87,7 @@ Yes. The individual ingredient prices are presented directly within the infograp
 
 The infographic is mostly transparent in its presentation of data. The values used in the visualization are clearly shown, and the source of the data is referenced.
 
-Are Sources Properly Cited?
+**Are Sources Properly Cited?**
 
 The data source is identified, which supports the credibility of the visualization. However, some contextual information, such as sample size or data collection methodology, is not discussed in detail.
 
@@ -95,15 +95,15 @@ The data source is identified, which supports the credibility of the visualizati
 
 This evaluation highlights several lessons about effective data visualization design.
 
-Use of Visual Metaphors
+**Use of Visual Metaphors**
 
 Visual metaphors can make complex topics more understandable by connecting them to familiar real-world objects.
 
-Simplicity Improves Communication
+**Simplicity Improves Communication**
 
 By avoiding overly complex charts, the infographic allows viewers to quickly grasp the core message.
 
-Design Influences Interpretation
+**Design Influences Interpretation**
 
 The layout, icons, and visual structure guide how audiences interpret the data.
 
