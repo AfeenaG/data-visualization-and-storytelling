@@ -67,12 +67,19 @@ These elements work together to create a cohesive narrative flow where the visua
 
 **Project Files**
 01-data-storyboard-traffic-collisions
+
 │
+
 ├── README.md
+
 └── Design-Process
+
     ├── collision-chart-1.png
+    
     ├── collision-chart-2.png
+    
     └── storyboard-scenes.png
+    
 
 # Key Learning Outcomes
 
