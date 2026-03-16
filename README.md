@@ -37,6 +37,11 @@ This project explored how storytelling can enhance data communication.
 
 I developed a narrative centered on a fictional character, **Alvin**, and integrated traffic collision statistics into the storyline. The storyboard illustrates how visualizations can be embedded within narrative sequences to guide readers through a structured data story.
 
+### Project Location
+
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/data-storyboard-traffic-collisions
+
+
 **Key Concepts**
 
 * Narrative structure in data communication
@@ -60,6 +65,10 @@ I developed a narrative centered on a fictional character, **Alvin**, and integr
 This project modernizes **Florence Nightingale’s Coxcomb chart**, one of the earliest examples of data visualization used for policy advocacy.
 
 The visualization was recreated and extended into an **interactive dashboard**, deployed through a Flask application.
+
+### Project Location
+
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/florence-nightingale-interactive-visualization
 
 ### Design Process
 
@@ -95,6 +104,10 @@ https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/WCUN0S
 
 The objective was to design a **clear and engaging infographic** summarizing key insights from the survey results.
 
+### Project Location
+
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/ai-perception-infographic-analysis
+
 ### Design Process
 
 * Hand-drawn sketches to explore visual concepts
@@ -112,6 +125,10 @@ This project used **scrollytelling**, a narrative visualization technique where 
 
 The story follows a student returning home for his weekly **strawberry pie**, illustrating how rising food prices affect everyday life.
 
+### Project Location
+
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/scrollytelling-rising-food-prices
+
 The project integrates:
 
 * Sequential storytelling
@@ -128,6 +145,9 @@ A video presentation summarizing the project is available here:
 ## 5. Evaluation of Statistics Canada Infographic
 
 This project analyzed the effectiveness of Statistics Canada’s infographic:
+
+### Project Location
+[https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/evaluation-infographic-statscan]
 
 **“Tariffs: No Impact Yet on Consumer Prices”**
 
