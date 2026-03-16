@@ -125,15 +125,15 @@ This project used **scrollytelling**, a narrative visualization technique where 
 
 The story follows a student returning home for his weekly **strawberry pie**, illustrating how rising food prices affect everyday life.
 
-### Project Location
-
-https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/scrollytelling-rising-food-prices
-
 The project integrates:
 
 * Sequential storytelling
 * Data-driven price trends
 * Narrative visualization techniques
+
+### Project Location
+
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/scrollytelling-rising-food-prices
 
 A video presentation summarizing the project is available here:
 
