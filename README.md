@@ -146,12 +146,12 @@ A video presentation summarizing the project is available here:
 
 This project analyzed the effectiveness of Statistics Canada’s infographic:
 
-### Project Location
-https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/evaluation-infographic-statscan
-
 **“Tariffs: No Impact Yet on Consumer Prices”**
 
 The evaluation examined how the infographic communicates complex economic data related to Canadian tariffs on U.S. food products.
+
+### Project Location
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/evaluation-infographic-statscan
 
 ### Visualization Techniques Identified
 
