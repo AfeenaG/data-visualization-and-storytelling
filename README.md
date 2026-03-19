@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository documents my work and key learnings from a **Data Visualization and Storytelling** course in the Master’s program in **Business Analytics and Artificial Intelligence**.
-
-The course focused on transforming complex datasets into **clear, compelling visual narratives** that support **data-driven decision making**. Through a series of hands-on projects, I explored how visualization techniques, interactive dashboards, and storytelling frameworks can be used to communicate insights effectively to technical and non-technical audiences.
+The focus is on transforming complex datasets into **clear, compelling visual narratives** that support **data-driven decision making**. Through a series of hands-on projects, I explored how visualization techniques, interactive dashboards, and storytelling frameworks can be used to communicate insights effectively to technical and non-technical audiences.
 
 The projects in this repository demonstrate practical applications of:
 
